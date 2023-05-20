@@ -1,0 +1,37 @@
+[
+  {
+    "user": "Eula Lebsack",
+    "tweets": 192,
+    "followers": 100500,
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/313.jpg",
+    "id": 1
+  },
+  {
+    "user": "Allen Veum",
+    "tweets": 73,
+    "followers": 37505,
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/475.jpg",
+    "id": 2
+  },
+  {
+    "user": "Roosevelt Heidenreich II",
+    "tweets": 12,
+    "followers": 29650,
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/267.jpg",
+    "id": 3
+  },
+  {
+    "user": "Benjamin Bernier",
+    "tweets": 165,
+    "followers": 99999,
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/249.jpg",
+    "id": 4
+  },
+  {
+    "user": "Bethany Labadie",
+    "tweets": 150,
+    "followers": 65090,
+    "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/603.jpg",
+    "id": 5
+  }
+]

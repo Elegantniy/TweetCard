@@ -1,0 +1,7 @@
+.userImg {
+  position: absolute;
+  top: -41px;
+  z-index: 1;
+  width: 80px;
+  height: 80px;
+}

@@ -1,0 +1,20 @@
+.imageWrap {
+  height: 217px;
+  padding-top: 34px;
+  padding-right: 45px;
+  padding-left: 52px;
+  padding-bottom: 0;
+}
+.backgroundImage {
+  margin: 0;
+  justify-content: center;
+}
+.logo {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  opacity: 0.8;
+}
+.imageItem {
+  list-style: none;
+}
